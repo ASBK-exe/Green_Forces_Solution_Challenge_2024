@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024">
-    <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/118734142/5d7b396d-9b3a-487f-b1b9-62c726341350" alt="Logo" width="400">
+    <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/118734142/446cdb09-f215-4a4f-b6cc-82d75d19327e" alt="Logo" width="400">
   </a>
 </p>
   <h2 align="center">Green Forces</h2>
