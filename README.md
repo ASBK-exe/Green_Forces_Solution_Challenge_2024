@@ -226,3 +226,6 @@ Each night and with every deployment, GitHub Actions gracefully transforms our s
 
 - Linkedin at [Adam](link) 
 - Linkedin at [team-Member](link) 
+## 🪪 License
+
+Green-Forces is licensed under the MIT license. See LICENSE FILE for more information.
