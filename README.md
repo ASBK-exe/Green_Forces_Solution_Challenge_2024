@@ -21,6 +21,22 @@
 <a href="link">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Badge"/>
   </a> 
+  
+<!-- ABOUT THE PROJECT -->
+  
+## Description :
+text here 
+
+## What is Our Problem? :
+text here to fill 
+
+## What is Our Solution? :
+<p align="center">
+  <a href="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024">
+    <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/118734142/5d7b396d-9b3a-487f-b1b9-62c726341350" alt="Logo" width="400">
+  </a>
+</p>
+text here also
 
 ## Our Goals :
 Climate Action             | Life on Land            |  Innovation and Infrastructure  
