@@ -227,7 +227,7 @@ Each night and with every deployment, GitHub Actions gracefully transforms our s
 
 ## 📌 Contact
 
-- Linkedin at [Adam Saleh Ben Khalifa]((https://www.linkedin.com/in/adamsalehbk/) 
+- Linkedin at [Adam Saleh Ben Khalifa](https://www.linkedin.com/in/adamsalehbk/) 
 - Linkedin at [team-Member](link) 
 ## 🪪 License
 
