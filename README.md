@@ -148,13 +148,16 @@ Climate Action             | Life on Land            |  Innovation and Infrastru
 <hr>
 
 ## Technologies :
-- Earth engine
-- 
-- ...
-- ...
-- .....
-- ....
-- ....
+### Google Technologies:
+- Tensorflow
+- Flutter (Soon...)
+- Earth engine(Soon...)
+- Gemini (Soon...)
+- Firebase (Soon...)
+### Other :
+- Figma
+- Python
+
 ## 🚀 Getting Started :
 This project is a starting point for a Flutter application.
 
