@@ -72,21 +72,18 @@ Climate Action             | Life on Land            |  Innovation and Infrastru
       </p>
     </td>
     <td style="text-align: center;">
-      <img src="" alt="Image 8" style="width: 100%;">
+      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/d7a64971-81c1-4dec-9db1-e70466bca815" alt="Image 8" style="width: 100%;">
      <p align="center">
-        <h3>STEP 2 </h3>
       </p>
     </td>
     <td style="text-align: center;">
-      <img src="" alt="Image 2" style="width: 100%;">
+      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/d99ad0af-bc74-4b19-954e-e353f52302a3" alt="Image 2" style="width: 100%;">
       <p align="center">
-        <h3>STEP 3 </h3>
       </p>
     </td>
     <td style="text-align: center;">
-      <img src="" alt="Image 3" style="width: 100%;">
+      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/d8206390-db12-47af-abf4-b9fc41e6bf77" alt="Image 3" style="width: 100%;">
       <p align="center">
-        <h3>STEP 4 </h3>
       </p>
     </td>
   </tr>
@@ -97,21 +94,18 @@ Climate Action             | Life on Land            |  Innovation and Infrastru
 <table style="width: 100%;">
   <tr>
     <td style="text-align: center;">
-      <img src="" alt="Image 1" style="width: 100%;">
+      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/2274c6e2-cd27-4ff6-b5f2-600a989792c4" alt="Image 1" style="width: 100%;">
       <p align="center">
-        <h3>STEP 1 </h3>
       </p>
     </td>
     <td style="text-align: center;">
-      <img src="" alt="Image 8" style="width: 100%;">
+      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/72e3613d-9310-4c07-8795-fa10ba330d0e" alt="Image 8" style="width: 100%;">
      <p align="center">
-        <h3>STEP 2 </h3>
       </p>
     </td>
     <td style="text-align: center;">
-      <img src="" alt="Image 2" style="width: 100%;">
+      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/1ea10b27-603c-410d-9ea8-00330b8e0e4e" alt="Image 2" style="width: 100%;">
       <p align="center">
-        <h3>STEP 3 </h3>
       </p>
     </td>
   </tr>
