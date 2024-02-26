@@ -159,6 +159,9 @@ Climate Action             | Life on Land              |  Innovation and Infrast
 - Streamlit
 - Gradio
 - Python
+  
+## UI/UX :
+### [Figma Link](https://www.figma.com/file/BIrFJlaXUZvSQSrfEoVVUB/Figma-basics?type=design&node-id=647%3A231&mode=design&t=W1X8cI9vIDLl1l49-1)
 
 ## 🚀 Getting Started :
 This project is a starting point for a Flutter application.
