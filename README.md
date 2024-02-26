@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
   
 ## Description :
-text here 
+Utilizing satellite imagery and normal users reports to detect illegale human-made deforestation or any kind of damage to the forests using an AI model to analyse and classify the data and send reports to special organizations to stop the harm as soon as possible
 
 ## What is Our Problem? :
 text here to fill 
