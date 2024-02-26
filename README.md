@@ -26,6 +26,14 @@
   
 ## Description :
 Utilizing satellite imagery and normal users reports to detect illegale human-made deforestation or any kind of damage to the forests using an AI model to analyse and classify the data and send reports to special organizations to stop the harm as soon as possible
+
+## Technical Description :
+- Satellite imagery Data: Google Earth Engine API (soon...)
+- Satellite imagery Model: Custom Tensorflow Model
+- Multi-Model for reports interpretation: Gemini + future fine-tunig on case-spacific data (soon...)
+- App dev: Flutter (soon...)
+- Data storage and management: Firebase (soon...)
+  
 ## What is Our Solution? :
 <p align="center">
   <a href="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024">
