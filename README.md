@@ -230,8 +230,8 @@ Each night and with every deployment, GitHub Actions gracefully transforms our s
 ## 📌 Contact
 
 - Linkedin at [Adam Saleh Ben Khalifa](https://www.linkedin.com/in/adamsalehbk/)
-- Linkedin at [Mohamed Ben Ticha]([link](https://www.linkedin.com/in/mohamedbenticha/))
-- Linkedin at [Mohamed Yacine Gazzeh]([link](https://www.linkedin.com/in/mohamed-yacine-gazzeh-348a88281/)) 
+- Linkedin at [Mohamed Ben Ticha](https://www.linkedin.com/in/mohamedbenticha/)
+- Linkedin at [Mohamed Yacine Gazzeh](https://www.linkedin.com/in/mohamed-yacine-gazzeh-348a88281/) 
 ## 🪪 License
 
 Green-Forces is licensed under the MIT license. See LICENSE FILE for more information.
