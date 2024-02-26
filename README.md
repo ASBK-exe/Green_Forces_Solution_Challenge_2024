@@ -171,6 +171,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+## Getting Started with Model :
+The  Model is hosted on the Hugging Face platform <br>
+Check this Link [HuggingFace](https://huggingface.co/spaces/benticha/model_demo)
+
 
 ### Prerequisites :
 
@@ -202,6 +206,11 @@ flutter run
 ```
 flutter run
 ```
+
+
+
+## Video Preview :
+
 ## 🚀 Contributing (Contribute and Elevate!)
 
 Welcome aboard! We're excited about any contributions you bring to the table. To make your journey smoother, we've laid out some guidelines that will get you up and running in no time.
@@ -218,7 +227,7 @@ Each night and with every deployment, GitHub Actions gracefully transforms our s
 
 ## 📌 Contact
 
-- Linkedin at [Adam](link) 
+- Linkedin at [Adam Saleh Ben Khalifa]((https://www.linkedin.com/in/adamsalehbk/) 
 - Linkedin at [team-Member](link) 
 ## 🪪 License
 
