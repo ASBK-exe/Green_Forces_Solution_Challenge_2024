@@ -108,6 +108,12 @@ Climate Action             | Life on Land            |  Innovation and Infrastru
       <p align="center">
       </p>
     </td>
+      <td style="text-align: center;">
+      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/88e9abbe-65a1-4eeb-909c-8ca5fad9e3d9
+        " alt="Image 1" style="width: 100%;">
+      <p align="center">
+      </p>
+    </td>
   </tr>
 </table>
 <hr>
