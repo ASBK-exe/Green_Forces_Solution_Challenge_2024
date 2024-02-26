@@ -36,7 +36,7 @@ Utilizing satellite imagery and normal users reports to detect illegale human-ma
 ## Our Goals :
 Climate Action             | Life on Land            |  Innovation and Infrastructure  
 :-------------------------:|:-------------------------:|:-------------------------:
-![sdg13](https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/7bd28927-1f81-48ec-9e51-85d601d6ced3)|![sdg15](https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/43b191ed-b9ad-4f8e-93ac-54168a1d44d4)|![SDG17](https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/2efa09a5-1440-4b8b-a9f9-ad56c5441074)
+![e_gif_13](https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/118734142/c28e1de2-85a4-4033-b598-3341b8605b28)|![sdg15](https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/43b191ed-b9ad-4f8e-93ac-54168a1d44d4)|![e_gif_17](https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/118734142/93301ff4-8ffa-40b1-9fac-0db03bdaef55)
 ## Features :
 ##### Utilizing satellite imagery to detect illegale human-made deforestation (Cutting trees) using an AI model and send reports to special organizations to stop the harm as soon as possible
 ##### People (Normal users and especially campers (include stats about the number of campers in forests))can send reports (location + images + description) about newly cut trees (using classification model to predict the freshly cut ones) :
