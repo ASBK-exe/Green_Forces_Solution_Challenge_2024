@@ -156,6 +156,8 @@ Climate Action             | Life on Land            |  Innovation and Infrastru
 - Firebase (Soon...)
 ### Other :
 - Figma
+- Streamlit
+- Gradio
 - Python
 
 ## 🚀 Getting Started :
