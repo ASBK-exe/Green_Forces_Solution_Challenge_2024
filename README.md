@@ -34,7 +34,7 @@ Utilizing satellite imagery and normal users reports to detect illegale human-ma
 </p>
 
 ## Our Goals :
-Climate Action             | Life on Land            |  Innovation and Infrastructure  
+Climate Action             | Life on Land              |  Innovation and Infrastructure  
 :-------------------------:|:-------------------------:|:-------------------------:
 ![e_gif_13](https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/118734142/c28e1de2-85a4-4033-b598-3341b8605b28)|![sdg15](https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/43b191ed-b9ad-4f8e-93ac-54168a1d44d4)|![e_gif_17](https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/118734142/93301ff4-8ffa-40b1-9fac-0db03bdaef55)
 ## Features :
@@ -229,8 +229,9 @@ Each night and with every deployment, GitHub Actions gracefully transforms our s
 
 ## 📌 Contact
 
-- Linkedin at [Adam Saleh Ben Khalifa](https://www.linkedin.com/in/adamsalehbk/) 
-- Linkedin at [team-Member](link) 
+- Linkedin at [Adam Saleh Ben Khalifa](https://www.linkedin.com/in/adamsalehbk/)
+- Linkedin at [Mohamed Ben Ticha]([link](https://www.linkedin.com/in/mohamedbenticha/))
+- Linkedin at [Mohamed Yacine Gazzeh]([link](https://www.linkedin.com/in/mohamed-yacine-gazzeh-348a88281/)) 
 ## 🪪 License
 
 Green-Forces is licensed under the MIT license. See LICENSE FILE for more information.
