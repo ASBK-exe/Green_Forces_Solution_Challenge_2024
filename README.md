@@ -53,7 +53,7 @@ Climate Action             | Life on Land            |  Innovation and Infrastru
 <table style="width: 100%;">
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/7fc0d423-1983-4232-bdf3-04852a07dc30" alt="Main-Menu" style="width: 100%;">
+      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/d995641f-420f-419c-95e9-d228d3f7f680" alt="Main-Menu" style="width: 100%;">
       <p align="center">
         <h3> Main Menu</h3>
       </p>
@@ -67,9 +67,8 @@ Climate Action             | Life on Land            |  Innovation and Infrastru
 <table style="width: 100%;">
   <tr>
     <td style="text-align: center;">
-      <img src="" alt="Image 1" style="width: 100%;">
+      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/bb8517d9-91f4-4f3e-90ff-8023e3a3f7b4" alt="Image 1" style="width: 100%;">
       <p align="center">
-        <h3>STEP 1 </h3>
       </p>
     </td>
     <td style="text-align: center;">
