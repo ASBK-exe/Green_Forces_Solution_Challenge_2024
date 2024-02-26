@@ -26,28 +26,26 @@
   
 ## Description :
 Utilizing satellite imagery and normal users reports to detect illegale human-made deforestation or any kind of damage to the forests using an AI model to analyse and classify the data and send reports to special organizations to stop the harm as soon as possible
-
-## What is Our Problem? :
-text here to fill 
-
 ## What is Our Solution? :
 <p align="center">
   <a href="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024">
     <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/118734142/5d7b396d-9b3a-487f-b1b9-62c726341350" alt="Logo" width="400">
   </a>
 </p>
-text here also
 
 ## Our Goals :
 Climate Action             | Life on Land            |  Innovation and Infrastructure  
 :-------------------------:|:-------------------------:|:-------------------------:
 ![sdg13](https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/7bd28927-1f81-48ec-9e51-85d601d6ced3)|![sdg15](https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/43b191ed-b9ad-4f8e-93ac-54168a1d44d4)|![SDG17](https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/2efa09a5-1440-4b8b-a9f9-ad56c5441074)
 ## Features :
--..... <br>
--.... <br>
--.... <br>
--...<br>
--.....<br>
+##### Utilizing satellite imagery to detect illegale human-made deforestation (Cutting trees) using an AI model and send reports to special organizations to stop the harm as soon as possible
+People (Normal users and especially campers (include stats about the number of campers in forests))can send reports (location + images + description) about:
+newly cut trees (using classification model to predict the freshly cut ones)
+##### Using a multi-model AI to interperate the reports and classify them before sending them to the experts for analysis and validation
+-Dead animals <br>
+- Trash or someone polluting the environment<br>
+-The start of a fire<br>
+##### Using a multi-model AI to interperate the reports and classify them before sending them to the experts for analysis and validation
 # Main Menu :
 <hr>
 <table style="width: 100%;">
@@ -152,8 +150,8 @@ Climate Action             | Life on Land            |  Innovation and Infrastru
 <hr>
 
 ## Technologies :
-- .... 
-- ....
+- Earth engine
+- 
 - ...
 - ...
 - .....
