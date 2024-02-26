@@ -129,27 +129,23 @@ Climate Action             | Life on Land            |  Innovation and Infrastru
       </p>
     </td>
     <td style="text-align: center;">
-      <img src="" alt="Image 8" style="width: 100%;">
-     <p align="center">
-        <h3>STEP 2 </h3>
+      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/e75aa5ac-d3a7-4726-9ebe-60fe9f754d1d" alt="Image 8" style="width: 100%;">
+     <p align="center"> 
       </p>
     </td>
     <td style="text-align: center;">
-      <img src="" alt="Image 2" style="width: 100%;">
+      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/6616bd95-ee90-46ed-ad4f-380838548d61" alt="Image 2" style="width: 100%;">
       <p align="center">
-        <h3>STEP 3 </h3>
       </p>
     </td>
     <td style="text-align: center;">
-      <img src="" alt="Image 3" style="width: 100%;">
+      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/89c2810f-6367-4d84-aa5c-5695ad32a099" alt="Image 3" style="width: 100%;">
       <p align="center">
-        <h3>STEP 4 </h3>
       </p>
     </td>
      <td style="text-align: center;">
-      <img src="" alt="Image 3" style="width: 100%;">
+      <img src="https://github.com/ASBK-exe/Green_Forces_Solution_Challenge_2024/assets/115191512/2f357926-228e-48a4-ba5d-027ef940c9c8" alt="Image 3" style="width: 100%;">
       <p align="center">
-        <h3>STEP 5 </h3>
       </p>
     </td>
   </tr>
